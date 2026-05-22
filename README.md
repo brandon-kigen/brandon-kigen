@@ -12,8 +12,8 @@ I specialize in building secure and scallable RESTful APIS, Microservices and we
 I also possess the technical competency to evaluate the right tool for the job from the following ever-growing skillset that I have used to build **Full-Stack Applications**, design and develop **RESTful APIs**, create **responsive && performant React applications** with modern tooling and help fellow developers **improve their craft and codebase quality**:  
 <br>
 
-- **Languages:** JavaScript || TypeScript, Python, Go
-- **Frameworks:** ReactJS || NextJS, ExpressJS || NestJS, Django && DRF, Gin
+- **Languages:** JavaScript || TypeScript, Python, Go, Elixir
+- **Frameworks:** ReactJS || NextJS, ExpressJS || NestJS, Django && DRF, Gin, Phoenix
 - **DevOps & Tools:** Docker, Kubernetes, Git, CI/CD
 - **Other:** RESTful APIs, Microservices, System Design, Testing
   <br>
